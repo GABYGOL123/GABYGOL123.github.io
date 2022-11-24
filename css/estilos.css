@@ -183,7 +183,7 @@ body
 }
 
 .knowledge__picture{
-    max-width: 500px;
+    max-width: 300px;
 
 }
 .knowledge_paragraph{
@@ -193,7 +193,7 @@ body
 }
 
 .knowledge__img{
-    width:100%;
+    width:50%;
     display:block;
 
 }
