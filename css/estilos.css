@@ -61,7 +61,7 @@ body
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: max-content;
-    gap: 6em;
+    gap: 15em;
 }
 
 .nav__items{
