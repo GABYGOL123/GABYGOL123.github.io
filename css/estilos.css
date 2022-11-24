@@ -51,13 +51,13 @@ body
 }
 
 .nav__title{
-    font-weight: 500;
+    font-weight: 400;
 
 }
 
 .nav__link{
-    margin-left: 45px;
-    padding: 25px 0;
+    margin-left: 60px;
+    padding: 20px 0;
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: max-content;
