@@ -250,3 +250,7 @@ body
     color : #5454d4;
 
 }
+ul{
+    text-align : center;
+    position : absolute;
+}
