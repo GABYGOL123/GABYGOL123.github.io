@@ -56,12 +56,12 @@ body
 }
 
 .nav__link{
-    margin-right: 10px;
+    margin-left: 20px;
     padding: 10px 0;
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: max-content;
-    gap: 8em;
+    gap: 10em;
 }
 
 .nav__items{
@@ -76,7 +76,7 @@ body
 }
 
 .nav__menu{
-    margin-right:auto;
+    margin-left:auto;
     cursor:pointer;
     display:none;
 }
