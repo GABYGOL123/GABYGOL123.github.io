@@ -51,7 +51,7 @@ body
 }
 
 .nav__title{
-    font-weight: 600;
+    font-weight: 500;
 
 }
 
@@ -61,7 +61,7 @@ body
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: max-content;
-    gap: 3em;
+    gap: 10em;
 }
 
 .nav__items{
@@ -76,7 +76,7 @@ body
 }
 
 .nav__menu{
-    margin-left:auto;
+    margin-right:auto;
     cursor:pointer;
     display:none;
 }
