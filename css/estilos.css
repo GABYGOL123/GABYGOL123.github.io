@@ -56,12 +56,12 @@ body
 }
 
 .nav__link{
-    margin-left: 70px;
-    padding: 70px 0;
+    margin-left: 90px;
+    padding: 90px 0;
     display: grid;
     grid-auto-flow: column;
     grid-auto-columns: max-content;
-    gap: 8em;
+    gap: 9em;
 }
 
 .nav__items{
