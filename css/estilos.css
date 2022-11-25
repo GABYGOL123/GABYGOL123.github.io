@@ -132,7 +132,7 @@ body
 
 .subtitle{
     color:var(--color-title);
-    font-size: 2rem;
+    font-size: 1rem;
     margin-bottom: 35px;
     text-align : center;
 }
@@ -209,7 +209,7 @@ body
     }
 
 .price__table{
-    padding-top:30px;
+    padding-top:20px;
     display:flex;
     flex-wrap:wrap;
     gap: 2.5em;
