@@ -236,7 +236,7 @@ body
 .price__name{
     color: var(--color-plan);
     margin-bottom: 15px;
-    font-weight: 400;
+    font-weight: 150;
 
 }
 
