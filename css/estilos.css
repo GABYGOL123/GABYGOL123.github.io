@@ -229,14 +229,14 @@ body
     --color-price: 	#ffffff;
     --bg-cta: #696871;
     --color-cta: #5454D4;
-    --color-items : #696871;
+    --color-items : #ffffff;
 
 }
 
 .price__name{
     color: var(--color-plan);
     margin-bottom: 15px;
-    font-weight: 200;
+    font-weight: 400;
 
 }
 
