@@ -249,9 +249,9 @@ body
     display: grid;
     gap: 1em;
     font-weight: 30;
-    font-size: 1rem;
+    font-size: 2rem;
     margin-bottom: 20px;
-    color : #5454d4;
+    color : #FFF;
     
 }
 ul{
