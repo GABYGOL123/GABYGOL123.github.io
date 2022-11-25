@@ -225,8 +225,8 @@ body
     border-radius: 10px;
     width: 330px;
     padding: 20px;
-    --color-plan: #696871;
-    --color-price: #1D293F;
+    --color-plan: 	#ffffff;
+    --color-price: 	#ffffff;
     --bg-cta: #696871;
     --color-cta: #5454D4;
     --color-items : #696871;
@@ -252,7 +252,7 @@ body
     font-weight: 30;
     font-size: 2rem;
     margin-bottom: 20px;
-    color : #FFF;
+    color : #ffffff;
     
 }
 ul{
