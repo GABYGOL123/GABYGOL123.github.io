@@ -56,7 +56,7 @@ body
 }
 
 .nav__link{
-    margin-left: 90px;
+    margin-left: 120px;
     padding: 90px 0;
     display: grid;
     grid-auto-flow: column;
