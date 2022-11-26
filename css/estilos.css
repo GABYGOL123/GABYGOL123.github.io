@@ -253,7 +253,7 @@ body
     font-size: 1rem;
     margin-bottom: 10px;
     color : #ffffff;
-    
+    text-align : justify;
 }
 ul{
     text-align : center;
