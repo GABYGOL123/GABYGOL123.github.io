@@ -278,3 +278,26 @@ ul{
 .comp_des{
     margin : 20px 20px 20px 20px;
 }
+.botones{
+    min-width : 700px;
+    display : #flex;
+    justify-content : space-around;
+}
+
+.botones a{
+    text-decoration : none;
+    font-size: 28;
+    width : 60px;
+    height : 60px;
+    line-height : 60px;
+    text-align : center;
+    background : #314652;
+    color : #f1f1f1;
+    border-radius : 50%;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    transition : all .4s ease-in-out;
+}
+
+.botones a:hover{
+    transform : scale(1.2);
+}
