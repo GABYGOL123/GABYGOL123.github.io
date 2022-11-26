@@ -137,8 +137,11 @@ body
     text-align : center;
 }
 .subtitle2{
+    margin-bottom: 40px;
+    font-size: 3rem;
     color : #fff;
     padding-top: 20px;
+    text-align : center;
 }
 
 .about__paragraph{
