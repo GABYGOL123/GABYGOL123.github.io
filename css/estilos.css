@@ -279,7 +279,7 @@ ul{
     margin : 20px 20px 20px 20px;
 }
 .botones {
-    min-width : 700px;
+    min-width : 70px;
     display : #flex;
     justify-content : space-around;
 }
@@ -290,12 +290,6 @@ ul{
     width : 60px;
     height : 60px;
     line-height : 60px;
-    text-align : center;
-    background : #314652;
     color : #f1f1f1;
-    border-radius : 50%;
 }
 
-.botones a:hover {
-    transform : scale(1.2);
-}
