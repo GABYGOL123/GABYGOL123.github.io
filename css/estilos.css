@@ -279,13 +279,12 @@ ul{
     margin : 20px 20px 20px 20px;
 }
 .botones {
-    width : 80px;
-    display : #flex;
+    display:grid;
+    gap: 1em;
+    justify-items: center;
+    width: 260px;
+    overflow:hidden;
+    margin: 0 auto; 
 }
 
-.botones a {
-    width : 80px;
-    height : 80px;
-    line-height : 60px;
-}
 
