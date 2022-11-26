@@ -280,16 +280,16 @@ ul{
 }
 .botones {
     min-width : 70px;
+    max-width : 200px;
     display : #flex;
     justify-content : space-around;
 }
 
 .botones a {
     text-decoration : none;
-    font-size: 28px;
+    font-size: 40px;
     width : 60px;
     height : 60px;
     line-height : 60px;
-    color : #f1f1f1;
 }
 
