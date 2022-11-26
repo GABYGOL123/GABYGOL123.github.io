@@ -268,10 +268,11 @@ ul{
     left : 25%;
 }
 .comp{
-    margin-top : 20px;
+    margin-top : 30px;
     text-align : center;
     font-size : 2.2rem;
     font-weight : 200;
+    color: var(--color-title);
 }
 
 .comp_des{
