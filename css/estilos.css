@@ -136,6 +136,9 @@ body
     margin-bottom: 40px;
     text-align : center;
 }
+.subtitle{
+    color : #fff;
+}
 
 .about__paragraph{
     line-height: 1.7;
