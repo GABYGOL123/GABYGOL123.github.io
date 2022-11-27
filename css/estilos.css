@@ -278,16 +278,13 @@ ul{
 .comp_des{
     margin : 20px 20px 20px 20px;
 }
-.botones {
-    
-}
 
-.icon {
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  stroke-width: 10;
-  stroke: currentColor;
-  fill: currentColor;
+.wrapper2{
+    width:90px;
+    height:90px;
+    margin-right: 90px;
+    margin-left: 180px;
+    display: inline-block;
+
 }
 
