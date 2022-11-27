@@ -281,8 +281,7 @@ ul{
 .botones {
     display: inline;
     width: 30px;
-    overflow:hidden;
-    margin: 0 auto; 
+    height: 30px;
 }
 
 
