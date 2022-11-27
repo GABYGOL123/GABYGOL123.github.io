@@ -279,6 +279,7 @@ ul{
     margin : 20px 20px 20px 20px;
 }
 .botones {
+    display: inline-block;
     width: 24px;
     overflow:hidden;
     margin: 0 auto; 
