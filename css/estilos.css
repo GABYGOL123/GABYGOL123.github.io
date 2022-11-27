@@ -279,9 +279,7 @@ ul{
     margin : 20px 20px 20px 20px;
 }
 .botones {
-    display:grid;
-    gap: 2em;
-    justify-items: center;
+    display:inline;
     max-width: 30px;
     overflow:hidden;
     margin: 0 auto; 
