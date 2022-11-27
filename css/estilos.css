@@ -282,7 +282,7 @@ ul{
     display:grid;
     gap: 2em;
     justify-items: center;
-    width: 400px;
+    max-width: 30px;
     overflow:hidden;
     margin: 0 auto; 
 }
