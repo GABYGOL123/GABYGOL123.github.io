@@ -285,6 +285,7 @@ ul{
     margin-right: 90px;
     margin-left: 180px;
     display: inline-block;
-
+    max-width:90px;
+    max-height:90px;
 }
 
